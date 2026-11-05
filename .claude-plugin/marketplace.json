@@ -1,0 +1,5 @@
+{
+  "name": "limits-line",
+  "owner": { "name": "Bossik999" },
+  "plugins": [{ "name": "limits-line", "source": "./" }]
+}

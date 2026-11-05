@@ -1,0 +1,6 @@
+{
+  "name": "limits-line",
+  "version": "0.3.0",
+  "description": "Shows remaining usage limits as bars under the prompt",
+  "license": "MIT"
+}
